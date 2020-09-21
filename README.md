@@ -1,5 +1,5 @@
 ### Hi there , I'm Naveen Kumar Simma 👋
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://naveen1000.github.io/)
+[![Website](https://img.shields.io/website?label=naveen1000&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://naveen1000.github.io/)
 - 🔭 I’m currently working on python
 - 🌱 I’m currently learning everything😄
 

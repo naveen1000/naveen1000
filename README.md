@@ -5,17 +5,17 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
+
+
 ### My Projects:
-  Corona Website:-
+  Corona Website:
     This Project is developed using Python Flask and deployed in Heroku Cloud Platform.
     Live At:-http://corona-notify.herokuapp.com/
     Code:-https://github.com/naveen1000/CoronaWeb
     This websites shows total corona cases confirmed in India and also with in states seperately.
-  
-
 <br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,8 +30,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/naveen-kumar-simma/
-
-
 <!--
 **naveen1000/naveen1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

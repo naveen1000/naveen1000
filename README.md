@@ -9,10 +9,10 @@
 
 
 ### My Projects:
-  Corona Website:
-    This Project is developed using Python Flask and deployed in Heroku Cloud Platform.
-    Live At:-http://corona-notify.herokuapp.com/
-    Code:-https://github.com/naveen1000/CoronaWeb
+  - Corona Website:<br/>
+    This Project is developed using Python Flask and deployed in Heroku Cloud Platform.<br/>
+    Live At:-http://corona-notify.herokuapp.com/<br/>
+    Code:-https://github.com/naveen1000/CoronaWeb<br/>
     This websites shows total corona cases confirmed in India and also with in states seperately.
 <br />
 

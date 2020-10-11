@@ -15,6 +15,11 @@
     Code:-https://github.com/naveen1000/CoronaWeb<br/>
     This websites shows total corona cases confirmed in India and also with in states seperately.
 <br />
+  - Corona Notifier:<br/>
+    This Project is developed using Python and deployed in Heroku Cloud Platform. (AWS Lamda with simple trigger)<br/>
+    Live At:-https://t.me/cricnotify [Telegram Channel]<br/>
+    Code:-https://github.com/naveen1000/CoronaNotifier<br/>
+    This Project shows the Corona data of Andhra Pradesh and whole India in Telegram with simple Notification Everyday.
 
 ### Languages and Tools:
 

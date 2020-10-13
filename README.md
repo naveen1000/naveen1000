@@ -19,6 +19,10 @@
     Live At:-https://t.me/cricnotify [Telegram Channel]<br/>
     Code:-https://github.com/naveen1000/CoronaNotifier<br/>
     This Project shows the Corona data of Andhra Pradesh and whole India in Telegram with simple Notification Everyday.<br/>
+  - #### Voice Controlled Display:<br/>
+    This project is used to display the text spoken by the user through Google assistant.<br/>
+    Code:-https://github.com/naveen1000/VoiceControlledDisplay<br/>
+    This can be used as dynamic Notice Boards in colleges,price display units in shops etc.<br/>
 
 ### Languages and Tools:
 
